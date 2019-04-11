@@ -1,0 +1,53 @@
+body {}
+
+#main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #c1b5bd;
+	font-family: monospace;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#title {
+	font-family: Helvetica;
+	width: auto;
+	height: auto;
+	text-align: center;
+}
+
+h2 {
+	font-size: 16px;
+}
+
+#img-div {
+	width: 100%;
+}
+
+#image {
+	display: block;
+	border: 15px solid #f3f1f3;
+	margin-left: auto;
+	margin-right: auto;
+  max-width: 30%;
+}
+
+#img-caption {
+	background-color: #f3f1f3;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+#tribute-info {
+	font-family: Helvetica;
+	text-align: justify;
+	background-color: #f3f1f3;
+}
+
+#link-container {
+	font-family: Helvetica;
+}
+
+#tribute-link {}
